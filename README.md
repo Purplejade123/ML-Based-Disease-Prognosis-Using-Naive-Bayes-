@@ -1,2 +1,12 @@
-# ML-Based-Disease-Prognosis-Using-Naive-Bayes-
-Predict disease based on symptoms using a supervised ML model( based on my final year graduation project )
+disease-prognosis-naive-bayes/
+│
+├── data/
+│   └── training_data.csv
+├── models/
+├── src/
+│   ├── preprocess.py
+│   ├── evaluate.py
+│   └── predict.py
+├── main.py
+├── requirements.txt
+
